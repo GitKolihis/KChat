@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export const channelsReducer = (state, action) => {
   switch (action.type) {
     case 'refresh': {
